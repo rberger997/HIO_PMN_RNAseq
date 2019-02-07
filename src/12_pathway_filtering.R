@@ -156,6 +156,15 @@ p3 <- path_heatmap(se_up)
 save_heatmap(p3,'SE','all_up', height = 5)
 
 
+# Pathways with biggest difference between samples
+x <- se1 %>% 
+  mutate(diff = abs(SE - SE_PMNs)) %>% 
+  arrange(-diff) %>% 
+  select(-diff) %>% 
+  head(., 30) %>% 
+  path_heatmap()
+
+
 
 # STM heatmaps
 # STM/PBS and STM+PMN/PBS 
@@ -178,6 +187,20 @@ save_heatmap(p,'STM','pmn_up')
 stm_up <- filter(stm1, STM > 1.6 & STM_PMNs > 1.6) #%>%
 p <- path_heatmap(stm_up)
 save_heatmap(p,'STM','all_up',height = 5)
+
+
+# Pathways with biggest difference between samples
+n <- 25
+x <-pathway_filter(stm_pbs, stm_pmn, p = 1, 
+                   label1 = 'STM', label2 = 'STM_PMNs') %>% 
+  mutate(diff = abs(STM - STM_PMNs)) %>% 
+  arrange(-diff) %>% 
+  select(-diff) %>% 
+  head(., n) %>% 
+  path_heatmap() 
+
+save_heatmap(x, 'STM', paste0(n,'_biggest_difference'), height = 5)
+
 
 
 
