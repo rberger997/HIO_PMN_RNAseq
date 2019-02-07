@@ -1,0 +1,181 @@
+directory,file_name,sample_id,lane,sample_name,RIN,total_ng,Date,cell_line,rep,injection,heat_killed,PMN,hypoxia,pharmacologic,hr,num,code_name,short_name,bigbugset,class
+../results/kallisto-Run_1731,67652_TGACCA_S28_L002_R1_001.fastq,67652,2,Bt_0_2016-06-23,8.9,4340,6/23/16,H9_HIO,0,Bacteroidetes thetaiotamicron VPI-5482,0,0,0,none,24,0,Btheta,Btheta_0,1,commensal
+../results/kallisto-Run_1731,67653_GAGTGG_S29_L002_R1_001.fastq,67653,2,Bt_1_2016-06-23,8.8,1765,6/23/16,H9_HIO,1,Bacteroidetes thetaiotamicron VPI-5482,0,0,0,none,24,1,Btheta,Btheta_1,1,commensal
+../results/kallisto-Run_1731,67654_ATCACG_S30_L002_R1_001.fastq,67654,2,Bt_2_2016-06-23,8.4,3710,6/23/16,H9_HIO,2,Bacteroidetes thetaiotamicron VPI-5482,0,0,0,none,24,2,Btheta,Btheta_2,1,commensal
+../results/kallisto-Run_1731,67655_TAGCTT_S31_L002_R1_001.fastq,67655,2,Bt_3_2016-06-23,7.4,880,6/23/16,H9_HIO,3,Bacteroidetes thetaiotamicron VPI-5482,0,0,0,none,24,3,Btheta,Btheta_3,1,commensal
+../results/kallisto-Run_1731,67656_GTGGCC_S32_L002_R1_001.fastq,67656,2,Bt_4_2016-06-23,8.3,1150,6/23/16,H9_HIO,4,Bacteroidetes thetaiotamicron VPI-5482,0,0,0,none,24,4,Btheta,Btheta_4,1,commensal
+../results/kallisto-Run_1731,67657_AGTCAA_S33_L002_R1_001.fastq,67657,2,Bt_5_2016-06-23,8.9,1815,6/23/16,H9_HIO,5,Bacteroidetes thetaiotamicron VPI-5482,0,0,0,none,24,5,Btheta,Btheta_5,1,commensal
+../results/kallisto-Run_1731,67690_CTTGTA_S62_L004_R1_001.fastq,67690,4,630_1_2016-06-24,8.4,3990,6/24/16,H9_HIO,1,Clostridium difficile 630,0,0,0,none,24,0,Cdiff,Cdiff_0,1,pathogen
+../results/kallisto-Run_1731,67691_CCGTCC_S63_L004_R1_001.fastq,67691,4,630_2_2016-06-24,9,3190,6/24/16,H9_HIO,2,Clostridium difficile 630,0,0,0,none,24,1,Cdiff,Cdiff_1,1,pathogen
+../results/kallisto-Run_1731,67692_TTAGGC_S64_L004_R1_001.fastq,67692,4,630_3_2016-06-24,8.9,5135,6/24/16,H9_HIO,3,Clostridium difficile 630,0,0,0,none,24,2,Cdiff,Cdiff_2,1,pathogen
+../results/kallisto-Run_1731,67693_GATCAG_S65_L004_R1_001.fastq,67693,4,630_4_2016-06-24,8.3,4135,6/24/16,H9_HIO,4,Clostridium difficile 630,0,0,0,none,24,3,Cdiff,Cdiff_3,1,pathogen
+../results/kallisto-Run_1731,67709_GAGTGG_S77_L005_R1_001.fastq,67709,5,630_0_2016-07-01,8.4,2735,7/1/16,H9_HIO,0,Clostridium difficile 630,0,0,0,none,24,4,Cdiff,Cdiff_4,1,pathogen
+../results/kallisto-Run_1731,67711_ATCACG_S78_L005_R1_001.fastq,67711,5,630_2_2016-07-01,7.7,4595,7/1/16,H9_HIO,2,Clostridium difficile 630,0,0,0,none,24,5,Cdiff,Cdiff_5,1,pathogen
+../results/kallisto-Run_1731,67713_TAGCTT_S79_L005_R1_001.fastq,67713,5,630_4_2016-07-01,7.3,2635,7/1/16,H9_HIO,4,Clostridium difficile 630,0,0,0,none,24,6,Cdiff,Cdiff_6,1,pathogen
+../results/kallisto-Run_1731,67715_GTGGCC_S80_L005_R1_001.fastq,67715,5,630_6_2016-07-01,7.6,1990,7/1/16,H9_HIO,6,Clostridium difficile 630,0,0,0,none,24,7,Cdiff,Cdiff_7,1,pathogen
+../results/kallisto-Run_1731,67672_ACTTGA_S45_L003_R1_001.fastq,67672,3,ENC_2_2016-07-15,5.2,3625,7/15/16,H9_HIO,2,Enterobacter cloacae subsp. Cloacae ATCC 13047,0,0,0,none,24,0,Ecloacae,Ecloacae_0,1,opportunist
+../results/kallisto-Run_1731,67674_CGTACG_S46_L003_R1_001.fastq,67674,3,ENC_4_2016-07-15,5.1,5200,7/15/16,H9_HIO,4,Enterobacter cloacae subsp. Cloacae ATCC 13047,0,0,0,none,24,1,Ecloacae,Ecloacae_1,1,opportunist
+../results/kallisto-Run_1731,67675_AGTTCC_S47_L003_R1_001.fastq,67675,3,ENC_5_2016-07-15,6.6,4585,7/15/16,H9_HIO,5,Enterobacter cloacae subsp. Cloacae ATCC 13047,0,0,0,none,24,2,Ecloacae,Ecloacae_2,1,opportunist
+../results/kallisto-Run_1731,67662_CTTGTA_S38_L003_R1_001.fastq,67662,3,EF_0_2016-07-08,6.3,2025,7/8/16,H9_HIO,0,Enterococcus faecalis ATCC 700802,0,0,0,none,24,0,Efaecalis,Efaecalis_0,1,opportunist
+../results/kallisto-Run_1731,67663_CCGTCC_S39_L003_R1_001.fastq,67663,3,EF_1_2016-07-08,7.4,975,7/8/16,H9_HIO,1,Enterococcus faecalis ATCC 700802,0,0,0,none,24,1,Efaecalis,Efaecalis_1,1,opportunist
+../results/kallisto-Run_1731,67664_TTAGGC_S40_L003_R1_001.fastq,67664,3,EF_2_2016-07-08,7.7,1355,7/8/16,H9_HIO,2,Enterococcus faecalis ATCC 700802,0,0,0,none,24,2,Efaecalis,Efaecalis_2,1,opportunist
+../results/kallisto-Run_1731,67665_GATCAG_S41_L003_R1_001.fastq,67665,3,EF_3_2016-07-08,8.2,875,7/8/16,H9_HIO,3,Enterococcus faecalis ATCC 700802,0,0,0,none,24,3,Efaecalis,Efaecalis_3,1,opportunist
+../results/kallisto-Run_1731,67666_ACTGAT_S42_L003_R1_001.fastq,67666,3,EF_4_2016-07-08,6.6,510,7/8/16,H9_HIO,4,Enterococcus faecalis ATCC 700802,0,0,0,none,24,4,Efaecalis,Efaecalis_4,1,opportunist
+../results/kallisto-Run_1731,67667_ATTCCT_S43_L003_R1_001.fastq,67667,3,EF_5_2016-07-08,7.3,1365,7/8/16,H9_HIO,5,Enterococcus faecalis ATCC 700802,0,0,0,none,24,5,Efaecalis,Efaecalis_5,1,opportunist
+../results/kallisto-Run_1731,67669_GGCTAC_S44_L003_R1_001.fastq,67669,3,EF_7_2016-07-08,8,2970,7/8/16,H9_HIO,7,Enterococcus faecalis ATCC 700802,0,0,0,none,24,6,Efaecalis,Efaecalis_6,1,opportunist
+../results/kallisto-Run_1731,67640_GGCTAC_S20_L002_R1_001.fastq,67640,2,ECOR2_0_2016-06-29,9.2,1405,6/29/16,H9_HIO,0,Escherichia coli str. ECOR2,0,0,0,none,24,0,ECOR2,ECOR2_0,1,commensal
+../results/kallisto-Run_1731,67641_ACTTGA_S21_L002_R1_001.fastq,67641,2,ECOR2_1_2016-06-29,9.2,3125,6/29/16,H9_HIO,1,Escherichia coli str. ECOR2,0,0,0,none,24,1,ECOR2,ECOR2_1,1,commensal
+../results/kallisto-Run_1731,67642_CGTACG_S22_L002_R1_001.fastq,67642,2,ECOR2_2_2016-06-29,9.1,2480,6/29/16,H9_HIO,2,Escherichia coli str. ECOR2,0,0,0,none,24,2,ECOR2,ECOR2_2,1,commensal
+../results/kallisto-Run_1731,67643_AGTTCC_S23_L002_R1_001.fastq,67643,2,ECOR2_3_2016-06-29,8,6595,6/29/16,H9_HIO,3,Escherichia coli str. ECOR2,0,0,0,none,24,3,ECOR2,ECOR2_3,1,commensal
+../results/kallisto-Run_1731,73876_ATGTCA_S4_L007_R1_001.fastq,73876,7,EC_1_2016-08-18,7.2,2800,8/18/16,H9_HIO,1,Escherichia coli str. ECOR2,0,0,0,none,24,12,ECOR2,ECOR2_12,1,commensal
+../results/kallisto-Run_1731,73884_ACTTGA_S12_L007_R1_001.fastq,73884,7,EC_5_2016-08-18,6.9,5200,8/18/16,H9_HIO,5,Escherichia coli str. ECOR2,0,0,0,none,24,16,ECOR2,ECOR2_16,1,commensal
+../results/kallisto-Run_1731,73885_CGTACG_S13_L007_R1_001.fastq,73885,7,EC_4_2016-08-18,7.2,5300,8/18/16,H9_HIO,4,Escherichia coli str. ECOR2,0,0,0,none,24,17,ECOR2,ECOR2_17,1,commensal
+../results/kallisto-Run_1731,73886_AGTTCC_S14_L007_R1_001.fastq,73886,7,EC_3_2016-08-18,6.4,6350,8/18/16,H9_HIO,3,Escherichia coli str. ECOR2,0,0,0,none,24,18,ECOR2,ECOR2_18,1,commensal
+../results/kallisto-Run_1731,73887_GTTTCG_S15_L007_R1_001.fastq,73887,7,EC_2_2016-08-18,5.4,5350,8/18/16,H9_HIO,2,Escherichia coli str. ECOR2,0,0,0,none,24,19,ECOR2,ECOR2_19,1,commensal
+../results/kallisto-Run_1731,67680_TGACCA_S52_L004_R1_001.fastq,67680,4,LR_0_2016-07-21,9.1,7830,7/21/16,H9_HIO,0,Lactobacillus reuteri MM4-1A (PTA-6475),0,0,0,none,24,0,Lreuteri,Lreuteri_0,1,commensal
+../results/kallisto-Run_1731,67681_GAGTGG_S53_L004_R1_001.fastq,67681,4,LR_1_2016-07-21,9,7700,7/21/16,H9_HIO,1,Lactobacillus reuteri MM4-1A (PTA-6475),0,0,0,none,24,1,Lreuteri,Lreuteri_1,1,commensal
+../results/kallisto-Run_1731,67682_ATCACG_S54_L004_R1_001.fastq,67682,4,LR_2_2016-07-21,8.4,8530,7/21/16,H9_HIO,2,Lactobacillus reuteri MM4-1A (PTA-6475),0,0,0,none,24,2,Lreuteri,Lreuteri_2,1,commensal
+../results/kallisto-Run_1731,67683_TAGCTT_S55_L004_R1_001.fastq,67683,4,LR_3_2016-07-21,8.5,7240,7/21/16,H9_HIO,3,Lactobacillus reuteri MM4-1A (PTA-6475),0,0,0,none,24,3,Lreuteri,Lreuteri_3,1,commensal
+../results/kallisto-Run_1731,67684_GTGGCC_S56_L004_R1_001.fastq,67684,4,LR_4_2016-07-21,8.8,2945,7/21/16,H9_HIO,4,Lactobacillus reuteri MM4-1A (PTA-6475),0,0,0,none,24,4,Lreuteri,Lreuteri_4,1,commensal
+../results/kallisto-Run_1731,67685_AGTCAA_S57_L004_R1_001.fastq,67685,4,LR_5_2016-07-21,8.8,3110,7/21/16,H9_HIO,5,Lactobacillus reuteri MM4-1A (PTA-6475),0,0,0,none,24,5,Lreuteri,Lreuteri_5,1,commensal
+../results/kallisto-Run_1731,67658_GTCCGC_S34_L003_R1_001.fastq,67658,3,PBS_0_2016-06-23,8.9,2820,6/23/16,H9_HIO,0,PBS,0,0,0,none,24,7,PBS,PBS_7,1,control
+../results/kallisto-Run_1731,67659_ACAGTG_S35_L003_R1_001.fastq,67659,3,PBS_1_2016-06-23,8.1,3435,6/23/16,H9_HIO,1,PBS,0,0,0,none,24,8,PBS,PBS_8,1,control
+../results/kallisto-Run_1731,67660_GCCAAT_S36_L003_R1_001.fastq,67660,3,PBS_2_2016-06-23,8.4,1570,6/23/16,H9_HIO,2,PBS,0,0,0,none,24,9,PBS,PBS_9,0,control
+../results/kallisto-Run_1731,67661_ATGTCA_S37_L003_R1_001.fastq,67661,3,PBS_3_2016-06-23,7.7,3315,6/23/16,H9_HIO,3,PBS,0,0,0,none,24,10,PBS,PBS_10,1,control
+../results/kallisto-Run_1731,67686_GTCCGC_S58_L004_R1_001.fastq,67686,4,PBS_1_2016-06-24,9.8,2665,6/24/16,H9_HIO,1,PBS,0,0,0,none,24,11,PBS,PBS_11,1,control
+../results/kallisto-Run_1731,67687_ACAGTG_S59_L004_R1_001.fastq,67687,4,PBS_2_2016-06-24,8.7,4070,6/24/16,H9_HIO,2,PBS,0,0,0,none,24,12,PBS,PBS_12,0,control
+../results/kallisto-Run_1731,67688_GCCAAT_S60_L004_R1_001.fastq,67688,4,PBS_3_2016-06-24,9.2,2715,6/24/16,H9_HIO,3,PBS,0,0,0,none,24,13,PBS,PBS_13,1,control
+../results/kallisto-Run_1731,67689_ATGTCA_S61_L004_R1_001.fastq,67689,4,PBS_4_2016-06-24,9.8,2245,6/24/16,H9_HIO,4,PBS,0,0,0,none,24,14,PBS,PBS_14,1,control
+../results/kallisto-Run_1731,67616_CGATGT_S1_L001_R1_001.fastq,67616,1,PBS_0_2016-06-29,9.8,2475,6/29/16,H9_HIO,0,PBS,0,0,0,none,24,4,PBS,PBS_4,0,control
+../results/kallisto-Run_1731,67617_CAGATC_S2_L001_R1_001.fastq,67617,1,PBS_1_2016-06-29,9.2,4800,6/29/16,H9_HIO,1,PBS,0,0,0,none,24,0,PBS,PBS_0,1,control
+../results/kallisto-Run_1731,67618_GTGAAA_S3_L001_R1_001.fastq,67618,1,PBS_2_2016-06-29,8.2,1460,6/29/16,H9_HIO,2,PBS,0,0,0,none,24,1,PBS,PBS_1,1,control
+../results/kallisto-Run_1731,67619_TGACCA_S4_L001_R1_001.fastq,67619,1,PBS_3_2016-06-29,9.1,1860,6/29/16,H9_HIO,3,PBS,0,0,0,none,24,2,PBS,PBS_2,0,control
+../results/kallisto-Run_1731,67701_CGATGT_S73_L005_R1_001.fastq,67701,5,PBS_0_2016-07-01,8.4,3395,7/1/16,H9_HIO,0,PBS,0,0,0,none,24,15,PBS,PBS_15,1,control
+../results/kallisto-Run_1731,67703_CAGATC_S74_L005_R1_001.fastq,67703,5,PBS_2_2016-07-01,9,2995,7/1/16,H9_HIO,2,PBS,0,0,0,none,24,16,PBS,PBS_16,1,control
+../results/kallisto-Run_1731,67705_GTGAAA_S75_L005_R1_001.fastq,67705,5,PBS_4_2016-07-01,8.4,7360,7/1/16,H9_HIO,4,PBS,0,0,0,none,24,17,PBS,PBS_17,0,control
+../results/kallisto-Run_1731,67707_TGACCA_S76_L005_R1_001.fastq,67707,5,PBS_6_2016-07-01,7.4,4835,7/1/16,H9_HIO,6,PBS,0,0,0,none,24,18,PBS,PBS_18,1,control
+../results/kallisto-Run_1731,73868_GAGTGG_S95_L006_R1_001.fastq,73868,6,PBS_0_2016-08-18,6.9,2700,8/18/16,H9_HIO,0,PBS,0,0,0,none,24,19,PBS,PBS_19,1,control
+../results/kallisto-Run_1731,73869_ATCACG_S96_L006_R1_001.fastq,73869,6,PBS_1_2016-08-18,8,1900,8/18/16,H9_HIO,1,PBS,0,0,0,none,24,20,PBS,PBS_20,0,control
+../results/kallisto-Run_1731,73870_TAGCTT_S97_L006_R1_001.fastq,73870,6,PBS_2_2016-08-18,5.1,2900,8/18/16,H9_HIO,2,PBS,0,0,0,none,24,21,PBS,PBS_21,1,control
+../results/kallisto-Run_1731,73871_GTGGCC_S98_L006_R1_001.fastq,73871,6,PBS_3_2016-08-18,7.4,3900,8/18/16,H9_HIO,3,PBS,0,0,0,none,24,22,PBS,PBS_22,0,control
+../results/kallisto-Run_1731,67624_AGTCAA_S9_L001_R1_001.fastq,67624,1,ST_0_2016-06-29,7.9,3160,6/29/16,H9_HIO,0,Salmonella enterica Serovar Typhi Strain Ty2 ,0,0,0,none,24,0,STyphi,STyphi_0,1,pathogen
+../results/kallisto-Run_1731,67625_GTCCGC_S10_L001_R1_001.fastq,67625,1,ST_1_2016-06-29,6.8,2730,6/29/16,H9_HIO,1,Salmonella enterica Serovar Typhi Strain Ty2 ,0,0,0,none,24,1,STyphi,STyphi_1,1,pathogen
+../results/kallisto-Run_1731,67626_ACAGTG_S11_L001_R1_001.fastq,67626,1,ST_2_2016-06-29,7.2,2630,6/29/16,H9_HIO,2,Salmonella enterica Serovar Typhi Strain Ty2 ,0,0,0,none,24,2,STyphi,STyphi_2,1,pathogen
+../results/kallisto-Run_1731,67627_GCCAAT_S12_L001_R1_001.fastq,67627,1,ST_3_2016-06-29,7.3,2515,6/29/16,H9_HIO,3,Salmonella enterica Serovar Typhi Strain Ty2 ,0,0,0,none,24,3,STyphi,STyphi_3,1,pathogen
+../results/kallisto-Run_1731,67733_TTAGGC_S88_L006_R1_001.fastq,67733,6,Saureus_0_2015-09-24,9.7,5080,9/24/15,H9_HIO,0,Staphylococcus aureus U300 LAC,0,0,0,none,24,0,Saureus,Saureus_0,1,pathogen
+../results/kallisto-Run_1731,67734_GATCAG_S89_L006_R1_001.fastq,67734,6,Saureus_1_2015-09-24,9.5,2415,9/24/15,H9_HIO,1,Staphylococcus aureus U300 LAC,0,0,0,none,24,1,Saureus,Saureus_1,1,pathogen
+../results/kallisto-Run_1731,67735_ACTGAT_S90_L006_R1_001.fastq,67735,6,Saureus_2_2015-09-24,9.5,2665,9/24/15,H9_HIO,2,Staphylococcus aureus U300 LAC,0,0,0,none,24,2,Saureus,Saureus_2,1,pathogen
+../results/kallisto-Run_1731,67694_ACTGAT_S66_L005_R1_001.fastq,67694,5,DtcdA_1_2016-06-24,8.7,3215,6/24/16,H9_HIO,1,Clostridium difficile 630 tcdA null,0,0,0,none,24,0,Cdiff-tcdA-KO,Cdiff-tcdA-KO_0,0,pathogen
+../results/kallisto-Run_1731,67695_ATTCCT_S67_L005_R1_001.fastq,67695,5,DtcdA_2_2016-06-24,8.4,4190,6/24/16,H9_HIO,2,Clostridium difficile 630 tcdA null,0,0,0,none,24,1,Cdiff-tcdA-KO,Cdiff-tcdA-KO_1,0,pathogen
+../results/kallisto-Run_1731,67696_GGCTAC_S68_L005_R1_001.fastq,67696,5,DtcdA_3_2016-06-24,8.6,4270,6/24/16,H9_HIO,3,Clostridium difficile 630 tcdA null,0,0,0,none,24,2,Cdiff-tcdA-KO,Cdiff-tcdA-KO_2,0,pathogen
+../results/kallisto-Run_1731,67717_AGTCAA_S81_L005_R1_001.fastq,67717,5,DtcdA_0_2016-07-01,7.6,2890,7/1/16,H9_HIO,0,Clostridium difficile 630 tcdA null,0,0,0,none,24,3,Cdiff-tcdA-KO,Cdiff-tcdA-KO_3,0,pathogen
+../results/kallisto-Run_1731,67721_GTCCGC_S82_L005_R1_001.fastq,67721,5,DtcdA_4_2016-07-01,5.8,3255,7/1/16,H9_HIO,4,Clostridium difficile 630 tcdA null,0,0,0,none,24,4,Cdiff-tcdA-KO,Cdiff-tcdA-KO_4,0,pathogen
+../results/kallisto-Run_1731,67723_ACAGTG_S83_L006_R1_001.fastq,67723,6,DtcdA_6_2016-07-01,7,3080,7/1/16,H9_HIO,6,Clostridium difficile 630 tcdA null,0,0,0,none,24,5,Cdiff-tcdA-KO,Cdiff-tcdA-KO_5,0,pathogen
+../results/kallisto-Run_1731,67697_ACTTGA_S69_L005_R1_001.fastq,67697,5,DtcdB_1_2016-06-24,8.8,6370,6/24/16,H9_HIO,1,Clostridium difficile 630 tcdB null,0,0,0,none,24,0,Cdiff-tcdB-KO,Cdiff-tcdB-KO_0,0,pathogen
+../results/kallisto-Run_1731,67698_CGTACG_S70_L005_R1_001.fastq,67698,5,DtcdB_2_2016-06-24,8.4,3810,6/24/16,H9_HIO,2,Clostridium difficile 630 tcdB null,0,0,0,none,24,1,Cdiff-tcdB-KO,Cdiff-tcdB-KO_1,0,pathogen
+../results/kallisto-Run_1731,67699_AGTTCC_S71_L005_R1_001.fastq,67699,5,DtcdB_3_2016-06-24,6.5,3525,6/24/16,H9_HIO,3,Clostridium difficile 630 tcdB null,0,0,0,none,24,2,Cdiff-tcdB-KO,Cdiff-tcdB-KO_2,0,pathogen
+../results/kallisto-Run_1731,67700_GTTTCG_S72_L005_R1_001.fastq,67700,5,DtcdB_4_2016-06-24,8.9,2515,6/24/16,H9_HIO,4,Clostridium difficile 630 tcdB null,0,0,0,none,24,3,Cdiff-tcdB-KO,Cdiff-tcdB-KO_3,0,pathogen
+../results/kallisto-Run_1731,67725_GCCAAT_S84_L006_R1_001.fastq,67725,6,DtcdB_0_2016-07-01,8.6,3465,7/1/16,H9_HIO,0,Clostridium difficile 630 tcdB null,0,0,0,none,24,4,Cdiff-tcdB-KO,Cdiff-tcdB-KO_4,0,pathogen
+../results/kallisto-Run_1731,67727_ATGTCA_S85_L006_R1_001.fastq,67727,6,DtcdB_2_2016-07-01,8.2,2450,7/1/16,H9_HIO,2,Clostridium difficile 630 tcdB null,0,0,0,none,24,5,Cdiff-tcdB-KO,Cdiff-tcdB-KO_5,0,pathogen
+../results/kallisto-Run_1731,67730_CTTGTA_S86_L006_R1_001.fastq,67730,6,DtcdB_5_2016-07-01,8.7,3645,7/1/16,H9_HIO,5,Clostridium difficile 630 tcdB null,0,0,0,none,24,6,Cdiff-tcdB-KO,Cdiff-tcdB-KO_6,0,pathogen
+../results/kallisto-Run_1731,67731_CCGTCC_S87_L006_R1_001.fastq,67731,6,DtcdB_6_2016-07-01,7.9,3495,7/1/16,H9_HIO,6,Clostridium difficile 630 tcdB null,0,0,0,none,24,7,Cdiff-tcdB-KO,Cdiff-tcdB-KO_7,0,pathogen
+../results/kallisto-2014,Sample_34966_R1.fastq,34966,10,ECOR2,,,12/16/14,H9_HIO,0,Escherichia coli str. ECOR2,0,0,0,none,48,30,ECOR2,ECOR2_30,0,commensal
+../results/kallisto-2014,Sample_34967_R1.fastq,34967,10,ECOR2,,,12/16/14,H9_HIO,1,Escherichia coli str. ECOR2,0,0,0,none,48,31,ECOR2,ECOR2_31,0,commensal
+../results/kallisto-2014,Sample_34968_R1.fastq,34968,10,ECOR2,,,12/16/14,H9_HIO,2,Escherichia coli str. ECOR2,0,0,0,none,48,32,ECOR2,ECOR2_32,0,commensal
+../results/kallisto-Run_1731,67644_GTTTCG_S24_L002_R1_001.fastq,67644,2,ECOR2-PMN_0_2016-06-29,8.1,3070,6/29/16,H9_HIO,0,Escherichia coli str. ECOR2,0,1,0,none,24,4,ECOR2+PMNs,ECOR2+PMNs_4,0,commensal
+../results/kallisto-Run_1731,67645_CGATGT_S25_L002_R1_001.fastq,67645,2,ECOR2-PMN_1_2016-06-29,7.5,1740,6/29/16,H9_HIO,1,Escherichia coli str. ECOR2,0,1,0,none,24,5,ECOR2+PMNs,ECOR2+PMNs_5,0,commensal
+../results/kallisto-Run_1731,67646_CAGATC_S26_L002_R1_001.fastq,67646,2,ECOR2-PMN_2_2016-06-29,6,2790,6/29/16,H9_HIO,2,Escherichia coli str. ECOR2,0,1,0,none,24,6,ECOR2+PMNs,ECOR2+PMNs_6,0,commensal
+../results/kallisto-Run_1731,67647_GTGAAA_S27_L002_R1_001.fastq,67647,2,ECOR2-PMN_3_2016-06-29,7.4,5190,6/29/16,H9_HIO,3,Escherichia coli str. ECOR2,0,1,0,none,24,7,ECOR2+PMNs,ECOR2+PMNs_7,0,commensal
+../results/kallisto-Run_1731,67676_GTTTCG_S48_L003_R1_001.fastq,67676,3,ECOR2_4_2016-07-05,7.4,3505,7/5/16,H9_HIO,4,Escherichia coli str. ECOR2,0,0,0,none,96,8,ECOR2,ECOR2_8,0,commensal
+../results/kallisto-Run_1731,67677_CGATGT_S49_L003_R1_001.fastq,67677,3,ECOR2_5_2016-07-05,7.5,4030,7/5/16,H9_HIO,5,Escherichia coli str. ECOR2,0,0,0,none,96,9,ECOR2,ECOR2_9,0,commensal
+../results/kallisto-Run_1731,67678_CAGATC_S50_L004_R1_001.fastq,67678,4,ECOR2_6_2016-07-05,7.8,8735,7/5/16,H9_HIO,6,Escherichia coli str. ECOR2,0,0,0,none,96,10,ECOR2,ECOR2_10,0,commensal
+../results/kallisto-Run_1731,67679_GTGAAA_S51_L004_R1_001.fastq,67679,4,ECOR2_7_2016-07-05,5.9,6230,7/5/16,H9_HIO,7,Escherichia coli str. ECOR2,0,0,0,none,96,11,ECOR2,ECOR2_11,0,commensal
+../results/kallisto-Run_1731,73882_ATTCCT_S10_L007_R1_001.fastq,73882,7,ECI_2_2016-08-18,5.2,2150,8/18/16,H9_HIO,2,Escherichia coli str. ECOR2,0,0,0,SC-514,24,14,ECOR2+NFKB-inhib,ECOR2+NFKB-inhib_14,0,commensal
+../results/kallisto-Run_1731,73883_GGCTAC_S11_L007_R1_001.fastq,73883,7,ECI_1_2016-08-18,7.4,5950,8/18/16,H9_HIO,1,Escherichia coli str. ECOR2,0,0,0,SC-514,24,15,ECOR2+NFKB-inhib,ECOR2+NFKB-inhib_15,0,commensal
+../results/kallisto-Run_1731,73892_GAGTGG_S20_L008_R1_001.fastq,73892,8,ECI_7_2016-08-18,9.1,5000,8/18/16,H9_HIO,7,Escherichia coli str. ECOR2,0,0,0,SC-514,24,24,ECOR2+NFKB-inhib,ECOR2+NFKB-inhib_24,0,commensal
+../results/kallisto-Run_1731,73893_ATCACG_S21_L008_R1_001.fastq,73893,8,ECI_5_2016-08-18,8.8,3600,8/18/16,H9_HIO,5,Escherichia coli str. ECOR2,0,0,0,SC-514,24,25,ECOR2+NFKB-inhib,ECOR2+NFKB-inhib_25,0,commensal
+../results/kallisto-2014,Klein551_ME_1,5511,9,hES,,,12/16/14,H9_hES,0,hES,0,0,0,none,NA,0,ES,ES_0,0,other
+../results/kallisto-2014,Klein551_ME_2,5512,9,hES,,,12/16/14,H9_hES,1,hES,0,0,0,none,NA,1,ES,ES_1,0,other
+../results/kallisto-2014,Klein551_ME_3,5513,9,hES,,,12/16/14,H9_hES,2,hES,0,0,0,none,NA,2,ES,ES_2,0,other
+../results/kallisto-Run_1731,73881_ACTGAT_S9_L007_R1_001.fastq,73881,7,HK_4_2016-05-24,9.2,4250,5/24/16,H9_HIO,4,HK-Escherichia coli str. ECOR2,1,0,0,none,24,13,ECOR2-heat-kill,ECOR2-heat-kill_13,0,commensal
+../results/kallisto-Run_1731,73905_ACTGAT_S33_L008_R1_001.fastq,73905,8,HK_5_2016-05-24,5,2550,5/24/16,H9_HIO,5,HK-Escherichia coli str. ECOR2,1,0,0,none,24,28,ECOR2-heat-kill,ECOR2-heat-kill_28,0,commensal
+../results/kallisto-Run_1731,73906_ATTCCT_S34_L008_R1_001.fastq,73906,8,HK_6_2016-05-24,7,2200,5/24/16,H9_HIO,6,HK-Escherichia coli str. ECOR2,1,0,0,none,24,29,ECOR2-heat-kill,ECOR2-heat-kill_29,0,commensal
+../results/kallisto-Run_1731,73888_CGATGT_S16_L007_R1_001.fastq,73888,7,HKECI_3_2016-08-18,7.5,7850,8/18/16,H9_HIO,3,HK-Escherichia coli str. ECOR2,1,0,0,SC-514,24,20,ECOR2-heat-kill+NFKB-inhib,ECOR2-heat-kill_20,0,commensal
+../results/kallisto-Run_1731,73889_CAGATC_S17_L007_R1_001.fastq,73889,7,HKECI_4_2016-08-18,7.9,9700,8/18/16,H9_HIO,4,HK-Escherichia coli str. ECOR2,1,0,0,SC-514,24,21,ECOR2-heat-kill+NFKB-inhib,ECOR2-heat-kill_21,0,commensal
+../results/kallisto-Run_1731,73890_GTGAAA_S18_L008_R1_001.fastq,73890,8,HKECI_0_2016-08-18,8.2,1350,8/18/16,H9_HIO,0,HK-Escherichia coli str. ECOR2,1,0,0,SC-514,24,22,ECOR2-heat-kill+NFKB-inhib,ECOR2-heat-kill_22,0,commensal
+../results/kallisto-Run_1731,73891_TGACCA_S19_L008_R1_001.fastq,73891,8,HKECI_1_2016-08-18,6.7,1050,8/18/16,H9_HIO,1,HK-Escherichia coli str. ECOR2,1,0,0,SC-514,24,23,ECOR2-heat-kill+NFKB-inhib,ECOR2-heat-kill_23,0,commensal
+../results/kallisto-Run_1731,73897_GTCCGC_S25_L008_R1_001.fastq,73897,8,HKECI_2_2016-08-18,8.7,3500,8/18/16,H9_HIO,2,HK-Escherichia coli str. ECOR2,1,0,0,SC-514,24,26,ECOR2-heat-kill+NFKB-inhib,ECOR2-heat-kill_26,0,commensal
+../results/kallisto-Run_1731,73901_CTTGTA_S29_L008_R1_001.fastq,73901,8,HKECI_5_2016-08-18,7.5,650,8/18/16,H9_HIO,5,HK-Escherichia coli str. ECOR2,1,0,0,SC-514,24,27,ECOR2-heat-kill+NFKB-inhib,ECOR2-heat-kill_27,0,commensal
+../results/kallisto-Run_1731,73877_CTTGTA_S5_L007_R1_001.fastq,73877,7,O2_6_2016-05-24,8.8,3750,5/24/16,H9_HIO,6,hypoxia,0,0,1,none,24,0,hypoxia,hypoxia_0,0,other
+../results/kallisto-Run_1731,73878_CCGTCC_S6_L007_R1_001.fastq,73878,7,O2_7_2016-05-24,7.6,2150,5/24/16,H9_HIO,7,hypoxia,0,0,1,none,24,1,hypoxia,hypoxia_1,0,other
+../results/kallisto-Run_1731,73879_TTAGGC_S7_L007_R1_001.fastq,73879,7,O2_4_2016-05-24,5.3,1400,5/24/16,H9_HIO,4,hypoxia,0,0,1,none,24,2,hypoxia,hypoxia_2,0,other
+../results/kallisto-Run_1731,73880_GATCAG_S8_L007_R1_001.fastq,73880,7,O2_5_2016-05-24,7.8,2500,5/24/16,H9_HIO,5,hypoxia,0,0,1,none,24,3,hypoxia,hypoxia_3,0,other
+../results/kallisto-Run_1731,73898_ACAGTG_S26_L008_R1_001.fastq,73898,8,O2_3_2016-08-18,8,2450,8/18/16,H9_HIO,3,hypoxia,0,0,1,none,24,7,hypoxia,hypoxia_7,0,other
+../results/kallisto-Run_1731,73899_GCCAAT_S27_L008_R1_001.fastq,73899,8,O2_2_2016-08-18,7.8,2200,8/18/16,H9_HIO,2,hypoxia,0,0,1,none,24,8,hypoxia,hypoxia_8,0,other
+../results/kallisto-Run_1731,73900_ATGTCA_S28_L008_R1_001.fastq,73900,8,O2_1_2016-08-18,7.2,2500,8/18/16,H9_HIO,1,hypoxia,0,0,1,none,24,9,hypoxia,hypoxia_9,0,other
+../results/kallisto-Run_1731,73895_GTGGCC_S23_L008_R1_001.fastq,73895,8,O2I_5_2016-08-18,8.9,1350,8/18/16,H9_HIO,5,hypoxia,0,0,1,SC-514,24,5,hypoxia+NFKB-inhib,hypoxia+NFKB-inhib_5,0,other
+../results/kallisto-Run_1731,73896_AGTCAA_S24_L008_R1_001.fastq,73896,8,O2I_4_2016-08-18,8,1100,8/18/16,H9_HIO,4,hypoxia,0,0,1,SC-514,24,6,hypoxia+NFKB-inhib,hypoxia+NFKB-inhib_6,0,other
+../results/kallisto-Run_1731,73902_CCGTCC_S30_L008_R1_001.fastq,73902,8,O2I_2_2016-08-18,7.5,1900,8/18/16,H9_HIO,2,hypoxia,0,0,1,SC-514,24,10,hypoxia+NFKB-inhib,hypoxia+NFKB-inhib_10,0,other
+../results/kallisto-Run_1731,73903_TTAGGC_S31_L008_R1_001.fastq,73903,8,O2I_1_2016-08-18,7.9,1700,8/18/16,H9_HIO,1,hypoxia,0,0,1,SC-514,24,11,hypoxia+NFKB-inhib,hypoxia+NFKB-inhib_11,0,other
+../results/kallisto-Run_1731,73904_GATCAG_S32_L008_R1_001.fastq,73904,8,O2I_0_2016-08-18,7.9,2250,8/18/16,H9_HIO,0,hypoxia,0,0,1,SC-514,24,12,hypoxia+NFKB-inhib,hypoxia+NFKB-inhib_12,0,other
+../results/kallisto-Run_1731,73894_TAGCTT_S22_L008_R1_001.fastq,73894,8,O2I_3_2016-08-18,7.9,1450,8/18/16,H9_HIO,3,hypoxia,0,0,0,SC-514,24,4,hypoxia+NFKB-inhib,hypoxia+NFKB-inhib_4,0,other
+../results/kallisto-Run_1731,73864_CGATGT_S91_L006_R1_001.fastq,73864,6,NoV_0_2016-08-04,9.4,5100,8/4/16,H9_HIO,0,Norovirus,0,0,0,none,24,0,Norovirus,Norovirus_0,0,pathogen
+../results/kallisto-Run_1731,73865_CAGATC_S92_L006_R1_001.fastq,73865,6,NoV_1_2016-08-04,8.8,3250,8/4/16,H9_HIO,1,Norovirus,0,0,0,none,24,1,Norovirus,Norovirus_1,0,pathogen
+../results/kallisto-Run_1731,73866_GTGAAA_S93_L006_R1_001.fastq,73866,6,NoV_2_2016-08-04,6.6,1400,8/4/16,H9_HIO,2,Norovirus,0,0,0,none,24,2,Norovirus,Norovirus_2,0,pathogen
+../results/kallisto-Run_1731,73867_TGACCA_S94_L006_R1_001.fastq,73867,6,NoV_3_2016-08-04,8.4,2600,8/4/16,H9_HIO,3,Norovirus,0,0,0,none,24,3,Norovirus,Norovirus_3,0,pathogen
+../results/kallisto-2014,Sample_34963_R1.fastq,34963,10,PBS,NA,NA,12/16/14,H9_HIO,0,PBS,0,0,0,none,48,27,PBS,PBS_27,0,control
+../results/kallisto-2014,Sample_34964_R1.fastq,34964,10,PBS,NA,NA,12/16/14,H9_HIO,1,PBS,0,0,0,none,48,28,PBS,PBS_28,0,control
+../results/kallisto-2014,Sample_34965_R1.fastq,34965,10,PBS,NA,NA,12/16/14,H9_HIO,2,PBS,0,0,0,none,48,29,PBS,PBS_29,0,control
+../results/kallisto-Run_1731,67620_GAGTGG_S5_L001_R1_001.fastq,67620,1,PBS-PMN_0_2016-06-29,7.2,1155,6/29/16,H9_HIO,0,PBS,0,1,0,none,24,3,PBS+PMNs,PBS+PMNs_3,0,control
+../results/kallisto-Run_1731,67621_ATCACG_S6_L001_R1_001.fastq,67621,1,PBS-PMN_1_2016-06-29,9.1,1990,6/29/16,H9_HIO,1,PBS,0,1,0,none,24,4,PBS+PMNs,PBS+PMNs_4,0,control
+../results/kallisto-Run_1731,67622_TAGCTT_S7_L001_R1_001.fastq,67622,1,PBS-PMN_2_2016-06-29,9.1,1605,6/29/16,H9_HIO,2,PBS,0,1,0,none,24,5,PBS+PMNs,PBS+PMNs_5,0,control
+../results/kallisto-Run_1731,67623_GTGGCC_S8_L001_R1_001.fastq,67623,1,PBS-PMN_3_2016-06-29,7.8,2240,6/29/16,H9_HIO,3,PBS,0,1,0,none,24,6,PBS+PMNs,PBS+PMNs_6,0,control
+../results/kallisto-Run_1731,73872_AGTCAA_S99_L006_R1_001.fastq,73872,6,PBS-I_0_2016-08-18,9.6,950,8/18/16,H9_HIO,0,PBS,0,0,0,SC-514,24,23,PBS+NFKB-inhib,PBS+NFKB-inhib_23,0,control
+../results/kallisto-Run_1731,73873_GTCCGC_S1_L007_R1_001.fastq,73873,7,PBS-I_1_2016-08-18,9.5,3300,8/18/16,H9_HIO,1,PBS,0,0,0,SC-514,24,24,PBS+NFKB-inhib,PBS+NFKB-inhib_24,0,control
+../results/kallisto-Run_1731,73874_ACAGTG_S2_L007_R1_001.fastq,73874,7,PBS-I_2_2016-08-18,7.3,1150,8/18/16,H9_HIO,2,PBS,0,0,0,SC-514,24,25,PBS+NFKB-inhib,PBS+NFKB-inhib_25,0,control
+../results/kallisto-Run_1731,73875_GCCAAT_S3_L007_R1_001.fastq,73875,7,PBS-I_3_2016-08-18,6.7,1400,8/18/16,H9_HIO,3,PBS,0,0,0,SC-514,24,26,PBS+NFKB-inhib,PBS+NFKB-inhib_26,0,control
+../results/kallisto-Run_1731,67631_ATGTCA_S13_L001_R1_001.fastq,67631,1,ST-PMN_3_2016-06-29,7.9,2740,6/29/16,H9_HIO,3,Salmonella enterica Serovar Typhi Strain Ty2 ,0,1,0,none,24,4,Styphi+PMNs,Styphi+PMNs_4,0,pathogen
+../results/kallisto-Run_1731,67632_CTTGTA_S14_L001_R1_001.fastq,67632,1,Styphimurium_0_2016-06-29,8.1,3820,6/29/16,H9_HIO,0,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,24,0,Styphimurium,Styphimurium_0,0,pathogen
+../results/kallisto-Run_1731,67634_CCGTCC_S15_L001_R1_001.fastq,67634,1,Styphimurium_2_2016-06-29,6.4,315,6/29/16,H9_HIO,2,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,24,1,Styphimurium,Styphimurium_1,0,pathogen
+../results/kallisto-Run_1731,67636_TTAGGC_S16_L001_R1_001.fastq,67636,1,Styphimurium-PMN_0_2016-06-29,8.4,80,6/29/16,H9_HIO,0,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,24,2,Styphimurium+PMNs,Styphimurium+PMNs_2,0,pathogen
+../results/kallisto-Run_1731,67637_GATCAG_S17_L002_R1_001.fastq,67637,2,Styphimurium-PMN_1_2016-06-29,6.2,4260,6/29/16,H9_HIO,1,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,24,3,Styphimurium+PMNs,Styphimurium+PMNs_3,0,pathogen
+../results/kallisto-Run_1731,67638_ACTGAT_S18_L002_R1_001.fastq,67638,2,Styphimurium-PMN_2_2016-06-29,8.2,5410,6/29/16,H9_HIO,2,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,24,4,Styphimurium+PMNs,Styphimurium+PMNs_4,0,pathogen
+../results/kallisto-Run_1731,67639_ATTCCT_S19_L002_R1_001.fastq,67639,2,Styphimurium-PMN_3_2016-06-29,7,2320,6/29/16,H9_HIO,3,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,24,5,Styphimurium+PMNs,Styphimurium+PMNs_5,0,pathogen
+../results/kallisto-Run_1822,80442_CGATGT_S1_L003_R1_001.fastq,80442,11,PBS_8hr_0_2017-05-22,,2800,5/22/17,H9_HIO,0,PBS,0,0,0,none,8,,PBS,PBS_1,0,
+../results/kallisto-Run_1822,80443_CAGATC_S2_L003_R1_001.fastq,80443,11,PBS_8hr_1_2017-05-22,,4600,5/22/17,H9_HIO,1,PBS,0,0,0,none,8,,PBS,PBS_2,0,
+../results/kallisto-Run_1822,80444_GTGAAA_S3_L003_R1_001.fastq,80444,11,PBS_8hr_2_2017-05-22,,2500,5/22/17,H9_HIO,2,PBS,0,0,0,none,8,,PBS,PBS_3,0,
+../results/kallisto-Run_1822,80445_TGACCA_S4_L003_R1_001.fastq,80445,11,PBS_8hr_3_2017-05-22,,1625,5/22/17,H9_HIO,3,PBS,0,0,0,none,8,,PBS,PBS_4,0,
+../results/kallisto-Run_1822,80446_GAGTGG_S5_L003_R1_001.fastq,80446,11,PMN_8hr_0_2017-05-22,,1175,5/22/17,PMN,0,none,0,1,0,none,8,,PMN,PMNs_Only_1,0,
+../results/kallisto-Run_1822,80447_ATCACG_S6_L003_R1_001.fastq,80447,11,PMN_8hr_1_2017-05-22,,1400,5/22/17,PMN,1,none,0,1,0,none,8,,PMN,PMNs_Only_2,0,
+../results/kallisto-Run_1822,80448_TAGCTT_S7_L003_R1_001.fastq,80448,11,PMN_8hr_2_2017-05-22,,1250,5/22/17,PMN,2,none,0,1,0,none,8,,PMN,PMNs_Only_3,0,
+../results/kallisto-Run_1822,80449_GTGGCC_S8_L003_R1_001.fastq,80449,11,PMN_8hr_3_2017-05-22,,1325,5/22/17,PMN,3,none,0,1,0,none,8,,PMN,PMNs_Only_4,0,
+../results/kallisto-Run_1822,80450_AGTCAA_S9_L003_R1_001.fastq,80450,11,PBS+PMNs_8hr_0_2017-05-22,,1200,5/22/17,H9_HIO,0,none,0,1,0,none,8,,PBS+PMNs_RNA_mix,PMNs_HIOs_Ctrl_1,0,
+../results/kallisto-Run_1822,80451_GTCCGC_S10_L003_R1_001.fastq,80451,11,PBS+PMNs_8hr_1_2017-05-22,,2150,5/22/17,H9_HIO,1,none,0,1,0,none,8,,PBS+PMNs_RNA_mix,PMNs_HIOs_Ctrl_2,0,
+../results/kallisto-Run_1822,80452_ACAGTG_S11_L003_R1_001.fastq,80452,11,PBS+PMNs_8hr_2_2017-05-22,,1500,5/22/17,H9_HIO,2,none,0,1,0,none,8,,PBS+PMNs_RNA_mix,PMNs_HIOs_Ctrl_3,0,
+../results/kallisto-Run_1822,80453_GCCAAT_S12_L003_R1_001.fastq,80453,11,PBS+PMNs_8hr_3_2017-05-22,,1125,5/22/17,H9_HIO,3,none,0,1,0,none,8,,PBS+PMNs_RNA_mix,PMNs_HIOs_Ctrl_4,0,
+../results/kallisto-Run_1822,80454_ATGTCA_S13_L003_R1_001.fastq,80454,11,Styphimurium_8hr_0_2017-05-22,,3775,5/22/17,H9_HIO,0,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,8,,STM,STM_1,0,
+../results/kallisto-Run_1822,80455_CTTGTA_S14_L003_R1_001.fastq,80455,11,Styphimurium_8hr_1_2017-05-22,,3025,5/22/17,H9_HIO,1,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,8,,STM,STM_2,0,
+../results/kallisto-Run_1822,80456_CCGTCC_S15_L003_R1_001.fastq,80456,11,Styphimurium_8hr_2_2017-05-22,,3450,5/22/17,H9_HIO,2,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,8,,STM,STM_3,0,
+../results/kallisto-Run_1822,80457_TTAGGC_S16_L003_R1_001.fastq,80457,11,Styphimurium_8hr_3_2017-05-22,,3300,5/22/17,H9_HIO,3,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,8,,STM,STM_4,0,
+../results/kallisto-Run_1822,80458_GATCAG_S17_L003_R1_001.fastq,80458,11,SEnteritidis_8hr_0_2017-05-22,,2575,5/22/17,H9_HIO,0,Salmonella enterica Serovar Enteritidis,0,0,0,none,8,,SE,SE_1,0,
+../results/kallisto-Run_1822,80459_ACTGAT_S18_L003_R1_001.fastq,80459,11,SEnteritidis_8hr_1_2017-05-22,,3675,5/22/17,H9_HIO,1,Salmonella enterica Serovar Enteritidis,0,0,0,none,8,,SE,SE_2,0,
+../results/kallisto-Run_1822,80460_ATTCCT_S19_L003_R1_001.fastq,80460,11,SEnteritidis_8hr_2_2017-05-22,,3500,5/22/17,H9_HIO,2,Salmonella enterica Serovar Enteritidis,0,0,0,none,8,,SE,SE_3,0,
+../results/kallisto-Run_1822,80461_GGCTAC_S20_L004_R1_001.fastq,80461,12,SEnteritidis_8hr_3_2017-05-22,,3775,5/22/17,H9_HIO,3,Salmonella enterica Serovar Enteritidis,0,0,0,none,8,,SE,SE_4,0,
+../results/kallisto-Run_1822,80462_ACTTGA_S21_L004_R1_001.fastq,80462,12,PBS+PMNs_8hr_0_2017-05-22,,4625,5/22/17,H9_HIO,0,PBS,0,1,0,none,8,,PBS+PMNs,PMNs_PBS_1,0,
+../results/kallisto-Run_1822,80463_CGTACG_S22_L004_R1_001.fastq,80463,12,PBS+PMNs_8hr_1_2017-05-22,,3475,5/22/17,H9_HIO,1,PBS,0,1,0,none,8,,PBS+PMNs,PMNs_PBS_2,0,
+../results/kallisto-Run_1822,80464_AGTTCC_S23_L004_R1_001.fastq,80464,12,PBS+PMNs_8hr_2_2017-05-22,,2625,5/22/17,H9_HIO,2,PBS,0,1,0,none,8,,PBS+PMNs,PMNs_PBS_3,0,
+../results/kallisto-Run_1822,80465_GTTTCG_S24_L004_R1_001.fastq,80465,12,PBS+PMNs_8hr_3_2017-05-22,,3000,5/22/17,H9_HIO,3,PBS,0,1,0,none,8,,PBS+PMNs,PMNs_PBS_4,0,
+../results/kallisto-Run_1822,80466_CGATGT_S25_L004_R1_001.fastq,80466,12,Styphimurium+PMNs_8hr_0_2017-05-22,,4025,5/22/17,H9_HIO,0,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,8,,STM+PMNs,PMNs_STM_1,0,
+../results/kallisto-Run_1822,80467_CAGATC_S26_L004_R1_001.fastq,80467,12,Styphimurium+PMNs_8hr_1_2017-05-22,,4000,5/22/17,H9_HIO,1,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,8,,STM+PMNs,PMNs_STM_2,0,
+../results/kallisto-Run_1822,80468_GTGAAA_S27_L004_R1_001.fastq,80468,12,Styphimurium+PMNs_8hr_2_2017-05-22,,2625,5/22/17,H9_HIO,2,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,8,,STM+PMNs,PMNs_STM_3,0,
+../results/kallisto-Run_1822,80469_TGACCA_S28_L004_R1_001.fastq,80469,12,Styphimurium+PMNs_8hr_3_2017-05-22,,3450,5/22/17,H9_HIO,3,Salmonella enterica Serovar Typhimurium strain SL1344,0,1,0,none,8,,STM+PMNs,PMNs_STM_4,0,
+../results/kallisto-Run_1822,80470_GAGTGG_S29_L004_R1_001.fastq,80470,12,SEnteritidis+PMNs_8hr_0_2017-05-22,,3275,5/22/17,H9_HIO,0,Salmonella enterica Serovar Enteritidis,0,1,0,none,8,,SE+PMNs,PMNs_SE_1,0,
+../results/kallisto-Run_1822,80471_ATCACG_S30_L004_R1_001.fastq,80471,12,SEnteritidis+PMNs_8hr_1_2017-05-22,,3350,5/22/17,H9_HIO,1,Salmonella enterica Serovar Enteritidis,0,1,0,none,8,,SE+PMNs,PMNs_SE_2,0,
+../results/kallisto-Run_1822,80472_TAGCTT_S31_L004_R1_001.fastq,80472,12,SEnteritidis+PMNs_8hr_2_2017-05-22,,2500,5/22/17,H9_HIO,2,Salmonella enterica Serovar Enteritidis,0,1,0,none,8,,SE+PMNs,PMNs_SE_3,0,
+../results/kallisto-Run_1822,80473_GTGGCC_S32_L004_R1_001.fastq,80473,12,SEnteritidis+PMNs_8hr_3_2017-05-22,,4250,5/22/17,H9_HIO,3,Salmonella enterica Serovar Enteritidis,0,1,0,none,8,,SE+PMNs,PMNs_SE_4,0,
+../results/kallisto-Run_1822,80474_AGTCAA_S33_L004_R1_001.fastq,80474,12,Styphimurium_24hr_0_2017-05-22,,2575,5/22/17,H9_HIO,0,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,24,,STM,24hpi_STM_1,0,
+../results/kallisto-Run_1822,80475_GTCCGC_S34_L004_R1_001.fastq,80475,12,Styphimurium_24hr_1_2017-05-22,,3250,5/22/17,H9_HIO,1,Salmonella enterica Serovar Typhimurium strain SL1344,0,0,0,none,24,,STM,24hpi_STM_2,0,
+../results/kallisto-Run_1822,80476_ACAGTG_S35_L004_R1_001.fastq,80476,12,SEnteritidis+PMNs_24hr_0_2017-05-22,,3600,5/22/17,H9_HIO,0,Salmonella enterica Serovar Enteritidis,0,1,0,none,24,,SE+PMNs,24hpi_PMNs_SE_1,0,
+../results/kallisto-Run_1822,80477_GCCAAT_S36_L004_R1_001.fastq,80477,12,SEnteritidis+PMNs_24hr_1_2017-05-22,,4425,5/22/17,H9_HIO,1,Salmonella enterica Serovar Enteritidis,0,1,0,none,24,,SE+PMNs,24hpi_PMNs_SE_2,0,
+../results/kallisto-Run_1822,80478_ATGTCA_S37_L004_R1_001.fastq,80478,12,SEnteritidis+PMNs_24hr_2_2017-05-22,,2875,5/22/17,H9_HIO,2,Salmonella enterica Serovar Enteritidis,0,1,0,none,24,,SE+PMNs,24hpi_PMNs_SE_3,0,
+../results/kallisto-Run_1822,80479_CTTGTA_S38_L004_R1_001.fastq,80479,12,SEnteritidis+PMNs_24hr_3_2017-05-22,,2325,5/22/17,H9_HIO,3,Salmonella enterica Serovar Enteritidis,0,1,0,none,24,,SE+PMNs,24hpi_PMNs_SE_4,0,
